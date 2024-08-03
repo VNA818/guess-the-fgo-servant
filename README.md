@@ -1,3 +1,3 @@
 # guess-the-fgo-servant
 
-Speedran making this for a friend
+Made for a friend in 2.5 hours.
